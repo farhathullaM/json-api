@@ -8,7 +8,7 @@
         "off": 88,
         "review":3440,
         "order": 75,
-        "img": "/images/img1.jpg"
+        "img": "../scr/Components/Assets/img1.jpg"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "off": 80,
         "review":311,
         "order": 45,
-        "img": "/images/img2.jpg"
+        "img": "../scr/Components/Assets/img2.jpg"
     },    
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "off": 88,
         "review":739,
         "order": 78,
-        "img": "/images/img3.jpeg"
+        "img": "../scr/Components/Assets/img3.jpeg"
     },    
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": "/images/img4.jpg"
+        "img": "../scr/Components/Assets/img4.jpg"
     },    
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "off": 82,
         "review":552,
         "order": 63,
-        "img": "/images/img5.jpg"
+        "img": "../scr/Components/Assets/img5.jpg"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "off": 83,
         "review":31,
         "order": 78,
-        "img": "/images/img6.jpg"
+        "img": "../scr/Components/Assets/img6.jpg"
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
         "off": 82,
         "review":3120,
         "order": 75,
-        "img": "/images/img7.jpg"
+        "img": "../scr/Components/Assets/img7.jpg"
     },    
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "off": 85,
         "review":310,
         "order": 75,
-        "img": "/images/img8.jpg"
+        "img": "../scr/Components/Assets/img8.jpg"
     },    
     {
         "id": 9,
@@ -96,7 +96,7 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": "/images/img9.jpg"
+        "img": "../Assets/img9.jpg"
     },
     {
         "id": 10,
@@ -107,6 +107,6 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": "/images/img10.jpg"
+        "img": "../Assets/img10.jpg"
     }
 ]
