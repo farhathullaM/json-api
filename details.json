@@ -8,7 +8,7 @@
         "off": 88,
         "review":3440,
         "order": 75,
-        "img": "../Assets/img1.jpg"
+        "img": "https://n3.sdlcdn.com/imgs/k/o/w/230X258_sharpened/Loopa-Black-100-Leather-Men-SDL520504426-1-fa88e.jpg"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "off": 80,
         "review":311,
         "order": 45,
-        "img": "../Assets/img2.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/p/g/230X258_sharpened/Clock21-Black-Leather-Men-s-SDL759274781-1-2e9f1.jpg"
     },    
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "off": 88,
         "review":739,
         "order": 78,
-        "img": "../Assets/img3.jpeg"
+        "img": "https://n4.sdlcdn.com/imgs/k/o/j/230X258_sharpened/Clock21-Black-Nylon-Men-s-SDL883313389-1-803ac.jpg"
     },    
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/p/230X258_sharpened/UrbanMark-Black-Nylon-Men-s-SDL496577130-1-a1c35.jpg"
     },    
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "off": 82,
         "review":552,
         "order": 63,
-        "img": "../Assets/img5.jpg"
+        "img": "https://n4.sdlcdn.com/imgs/k/q/1/230X258_sharpened/Loopa-Brown-Leather-Men-s-SDL908533370-1-9a884.jpg"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "off": 83,
         "review":31,
         "order": 78,
-        "img": "../Assets/img6.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/m/c/230X258_sharpened/SILKSHOPPING-Black-Faux-Leather-Men-SDL907788690-1-f085b.JPG"
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
         "off": 82,
         "review":3120,
         "order": 75,
-        "img": "../Assets/img7.jpg"
+        "img": "https://n4.sdlcdn.com/imgs/k/o/q/230X258_sharpened/PlayHORN-Black-Leather-Men-s-SDL172276367-1-02019.jpg"
     },    
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "off": 85,
         "review":310,
         "order": 75,
-        "img": "../Assets/img8.jpg"
+        "img": "https://n2.sdlcdn.com/imgs/k/p/d/230X258_sharpened/UrbanMark-Black-100-Leather-Men-SDL204845398-1-9b20c.jpg"
     },    
     {
         "id": 9,
@@ -96,7 +96,7 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": "../Assets/img9.jpg"
+        "img": "https://n4.sdlcdn.com/imgs/k/l/n/230X258_sharpened/Clock21-Brown-Nylon-Men-s-SDL291017721-1-914e9.jpeg"
     },
     {
         "id": 10,
@@ -107,6 +107,6 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": "../Assets/img10.jpg"
+        "img": ".https://n2.sdlcdn.com/imgs/k/o/f/large/Loopa-Black-100-Leather-Men-SDL541155404-1-9af56.webp"
     }
 ]
