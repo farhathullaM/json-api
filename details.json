@@ -8,7 +8,7 @@
         "off": 88,
         "review":3440,
         "order": 75,
-        "img": "../scr/Components/Assets/img1.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "off": 80,
         "review":311,
         "order": 45,
-        "img": "../scr/Components/Assets/img2.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     },    
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "off": 88,
         "review":739,
         "order": 78,
-        "img": "../scr/Components/Assets/img3.jpeg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     },    
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": "../scr/Components/Assets/img4.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     },    
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "off": 82,
         "review":552,
         "order": 63,
-        "img": "../scr/Components/Assets/img5.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "off": 83,
         "review":31,
         "order": 78,
-        "img": "../scr/Components/Assets/img6.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
         "off": 82,
         "review":3120,
         "order": 75,
-        "img": "../scr/Components/Assets/img7.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     },    
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "off": 85,
         "review":310,
         "order": 75,
-        "img": "../scr/Components/Assets/img8.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     },    
     {
         "id": 9,
@@ -96,7 +96,7 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": "../Assets/img9.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     },
     {
         "id": 10,
@@ -107,6 +107,6 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": "../Assets/img10.jpg"
+        "img": "https://n1.sdlcdn.com/imgs/k/l/5/230X258_sharpened/Kingluster-Black-Leather-Men-s-SDL046716859-1-4d8aa.jpg"
     }
 ]
