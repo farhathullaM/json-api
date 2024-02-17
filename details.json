@@ -107,6 +107,71 @@
         "off": 88,
         "review":310,
         "order": 75,
-        "img": ".https://n2.sdlcdn.com/imgs/k/o/f/large/Loopa-Black-100-Leather-Men-SDL541155404-1-9af56.webp"
-    }
+        "img": "https://n2.sdlcdn.com/imgs/k/o/f/large/Loopa-Black-100-Leather-Men-SDL541155404-1-9af56.webp"
+    },
+    {
+        "id": 11,
+        "name": "UrbanMark- Black Nylon Men's Belt( Pack  of 1 )",
+        "old_price": 799,
+        "new_price": 299,
+        "star": 4,
+        "off": 68,
+        "review":910,
+        "order": 65,
+        "img": "https://n3.sdlcdn.com/imgs/k/o/2/large/UrbanMark-Black-Nylon-Men-s-SDL076685297-1-ca5a4.webp"
+    },    
+    {
+        "id": 12,
+        "name": "Clock21 - Black Canvas Men's Formal Belt ( Pack of 1 )",
+        "old_price": 1099,
+        "new_price": 129,
+        "star": 2,
+        "off": 78,
+        "review":510,
+        "order": 15,
+        "img": "https://n2.sdlcdn.com/imgs/k/t/j/large/Clock21-Black-Canvas-Men-s-SDL778056543-1-631f7.webp"
+    },    {
+        "id": 13,
+        "name": "kingluster-Black Leater Men's Belt( Pack  of 1 )",
+        "old_price": 1299,
+        "new_price": 159,
+        "star": 4,
+        "off": 88,
+        "review":3440,
+        "order": 75,
+        "img": "https://n3.sdlcdn.com/imgs/k/o/w/230X258_sharpened/Loopa-Black-100-Leather-Men-SDL520504426-1-fa88e.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Clock21 - Brown Nylon Men's Casual Belt ( Pack of 1 )",
+        "old_price": 599,
+        "new_price": 119,
+        "star": 4,
+        "off": 80,
+        "review":311,
+        "order": 45,
+        "img": "https://n1.sdlcdn.com/imgs/k/p/g/230X258_sharpened/Clock21-Black-Leather-Men-s-SDL759274781-1-2e9f1.jpg"
+    },    
+    {
+        "id": 15,
+        "name": "UrbanMark - Black 100% Leather Men's Formal Belt ( Pack of 1 )",
+        "old_price": 1499,
+        "new_price": 349,
+        "star": 4,
+        "off": 88,
+        "review":739,
+        "order": 78,
+        "img": "https://n4.sdlcdn.com/imgs/k/o/j/230X258_sharpened/Clock21-Black-Nylon-Men-s-SDL883313389-1-803ac.jpg"
+    },    
+    {
+        "id": 16,
+        "name": "Clock21 - Black Nylon Men's Casual Belt ( Pack of 1 )",
+        "old_price": 899,
+        "new_price": 149,
+        "star": 4,
+        "off": 88,
+        "review":310,
+        "order": 75,
+        "img": "https://n1.sdlcdn.com/imgs/k/l/p/230X258_sharpened/UrbanMark-Black-Nylon-Men-s-SDL496577130-1-a1c35.jpg"
+    } 
 ]
